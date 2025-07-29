@@ -14,11 +14,11 @@ aims to build an efficient chat system with an intuitive interface, using modern
 Real-time messaging using WebSockets- User authentication and registration- One-on-one chat and group chat- Mobile-friendly responsive design- Chat history and message storage
 
  # Technologies Used:- 
- Frontend: HTML, CSS, JavaScript, React.js- 
- Backend: Node.js, Express.js- 
- Real-time Communication: Socket.io- 
- Database: MongoDB / Firebase- 
- Hosting: Firebase Hosting
+ # Frontend: HTML, CSS, JavaScript, React.js- 
+# Backend: Node.js, Express.js- 
+# Real-time Communication: Socket.io- 
+# Database: MongoDB / Firebase- 
+# Hosting: Firebase Hosting
 
 # Modules:
  1. User Authentication - Register/login system
